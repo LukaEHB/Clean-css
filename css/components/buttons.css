@@ -2,7 +2,7 @@ a{
   text-decoration: none;
 }
 
-.nav-button{
+.border-button{
   display: block;
   padding: 8px 30px;
   border: 3px solid #0050a0;
@@ -13,7 +13,7 @@ a{
   transition: .5s color, .5s box-shadow, .5s border-color;
 }
 
-.nav-button:hover{
+.border-button:hover{
   box-shadow: 2px 3px 6px #9a9a9a;
   color: #00955c;
   border-color: #00955c;
