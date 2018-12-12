@@ -17,8 +17,11 @@
    font-size: 1.7rem;
 }
 
-h1{
+h1, h2{
   font-family: 'poppins', helvetica , sans-serif;
+}
+
+h1{
   font-size: 5rem;
 }
 
@@ -26,7 +29,6 @@ main h1{
   font-size: 4rem;
 }
 
- 
 a{
   font-size: 1.9rem;
 }
